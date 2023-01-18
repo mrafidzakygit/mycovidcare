@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyCovidCareFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <array name="Jenis">
+        <item>Pilih Vaksin</item>
+        <item>Moderna</item>
+        <item>Sinovac</item>
+        <item>Pfizer</item>
+        <item>Astrazeneca</item>
+    </array>
+
+    <array name="Lokasi">
+        <item>Pilih Lokasi</item>
+        <item>Rsup Hasan Sadikin</item>
+        <item>Puskesmas Balai Kota</item>
+        <item>RSKIA Bandung</item>
+        <item>Rs Advent</item>
+        <item>Medika Antapani</item>
+    </array>
+
+    <array name="Count">
+        <item>Pilih Vaksin Ke</item>
+        <item>Satu</item>
+        <item>Dua</item>
+        <item>Booster Satu</item>
+        <item>Booster Dua</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456728482984",
+    "firebase_url": "https://covidcarefinal-default-rtdb.firebaseio.com",
+    "project_id": "covidcarefinal",
+    "storage_bucket": "covidcarefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456728482984:android:d539c415da05f6cabd9e9d",
+        "android_client_info": {
+          "package_name": "com.example.mycovidcarefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456728482984-17138trgmjd2b94nepjat8bkn3q7ifr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycovidcarefinal",
+            "certificate_hash": "19c8e2fc7db85e341674448febdb2295bb116e4f"
+          }
+        },
+        {
+          "client_id": "456728482984-8qiceouukom91ov9h742b58jf4facbg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhokAvdPk3Kxz_kFZCtp7S77P1x99dJBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456728482984-8qiceouukom91ov9h742b58jf4facbg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
